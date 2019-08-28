@@ -1,4 +1,7 @@
 
+# AutoKuesioner
+[![Build Status](https://github.com/zetc0de/AutoKuesioner)](https://github.com/zetc0de/AutoKuesioner)
+
 AutoKuesioner adalah tools untuk mengisi kuesioner secara otomatis, tools dibuat untuk para pemalas yang mau ngisi kuesioner di SIMAK STMIK El-Rahma Yogyakarta.
 
 ### Installation
